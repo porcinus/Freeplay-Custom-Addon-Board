@@ -1,4 +1,7 @@
 # Freeplay-Custom-Addon-Board
+
+![setup](https://github.com/porcinus/Freeplay-Custom-Addon-Board/blob/master/preview/02.jpg)
+
 The idea about this project is to combine all additional features you could need on a handheld machine but keeping modification on the motherboard as low as possible.
 
 The PCB borders, headers position, CPU heatsink clearance and L2/R2 switches positions are the same.
@@ -14,6 +17,7 @@ The battery voltage also feed the VBAT pin on the RTC chip, the power consumptio
 The fan is still controlled with pin 40 using a NPN transistor.
 
 *.cb files can be open with CamBam CNC Software (http://www.cambam.info/).
+
 
 # Revision
 - rev0 : initial version, ADC chip placed the wrong way, voltage divider used to power battery monitoring chip.
