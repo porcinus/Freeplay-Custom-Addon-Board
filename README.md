@@ -13,9 +13,11 @@ The battery voltage also feed the VBAT pin on the RTC chip, the power consumptio
 
 The fan is still controlled with pin 40 using a NPN transistor.
 
+*.cb files can be open with CamBam CNC Software (http://www.cambam.info/).
+
 # Revision
-- addon rev0.cb : initial version, ADC chip placed the wrong way, voltage divider used to power battery monitoring chip.
-- addon rev1.cb : partial file, traces rework, ADC chip used to monitor battery run at 5v (could not work because I2C bus run at 3v3).
-- addon rev2.cb : traces reworked, ADC chip used to monitor battery run at 4.5v via a voltage reference chip, this revision work fine in the real world.
+- rev0 : initial version, ADC chip placed the wrong way, voltage divider used to power battery monitoring chip.
+- rev1 : partial file, traces rework, ADC chip used to monitor battery run at 5v (could not work because I2C bus run at 3v3).
+- rev2 : traces reworked, ADC chip used to monitor battery run at 4.5v via a voltage reference chip, this revision work fine in the real world.
 
 
