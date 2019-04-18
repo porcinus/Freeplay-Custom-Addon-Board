@@ -1,6 +1,7 @@
 # Freeplay-Custom-Addon-Board
 
-![setup](https://github.com/porcinus/Freeplay-Custom-Addon-Board/blob/master/preview/02.jpg)
+![Rev 2](https://github.com/porcinus/Freeplay-Custom-Addon-Board/blob/master/preview/02.jpg)
+![Rev 3](https://github.com/porcinus/Freeplay-Custom-Addon-Board/blob/master/preview/03.jpg)
 
 The idea about this project is to combine all additional features you could need on a handheld machine but keeping modification on the motherboard as low as possible.
 
@@ -23,5 +24,5 @@ The fan is still controlled with pin 40 using a NPN transistor.
 - rev0 : initial version, ADC chip placed the wrong way, voltage divider used to power battery monitoring chip.
 - rev1 : partial file, traces rework, ADC chip used to monitor battery run at 5v (could not work because I2C bus run at 3v3).
 - rev2 : traces reworked, ADC chip used to monitor battery run at 4.5v via a voltage reference chip, this revision work fine in the real world.
-- rev3 : X and Y ADC chips replace by a ADS1015 to allow use of 2 joystick with adress 0x48. This revision has not been tested in the real world at this point.
+- rev3 : X and Y ADC chips replace by a ADS1015 to allow use of 2 joystick with adress 0x48.
 
