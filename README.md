@@ -26,3 +26,5 @@ The fan is still controlled with pin 40 using a NPN transistor.
 - rev2 : traces reworked, ADC chip used to monitor battery run at 4.5v via a voltage reference chip, this revision work fine in the real world.
 - rev3 : X and Y ADC chips replace by a ADS1015 to allow use of 2 joystick with adress 0x48, AMS1117-3.3 regulator now use 22µF capacitor.
 
+# Notes
+- rev3 : While MCP3021A value goes from 0 (0v) to 1024 (extrapolate to 4096) (+3.3v), ADS1015 base its read on the Full-Scale Range (FSR) set by the user (in this case ±4.096V), this mean that the ADC chip has a readable values in this PCB case goes from 2048 (0v) to 398 (-3.3v) OR to 3698 (+3.3v), so a range of only 1650. I used this chip not for it's performance but for it footprint. To avoid lag, use a udelay(450) insead of msleep(1) in your driver code.
