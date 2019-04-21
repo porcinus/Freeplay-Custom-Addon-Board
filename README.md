@@ -34,5 +34,6 @@ A good example of this is when the handheld is charging, while MCP3021A is able 
 
 
 # Other boards
+![Battery monitoring board and Fan control board](https://github.com/porcinus/Freeplay-Custom-Addon-Board/blob/master/preview/board battery adc and gpio.jpg)
 - Battery monitoring board : provide a MCP3021A ADC chip (or a MCP3221A) with a MAX6107 voltage reference chip (Note: this board doesn't embeb pullup resistors, it is design to be used with original Freeplay CM3 Addon board).
 - Fan control board : a simple GPIO board with a resistor and a NPN transistor.
