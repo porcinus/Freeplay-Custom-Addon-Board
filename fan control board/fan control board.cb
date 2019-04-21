@@ -1,0 +1,458 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CADFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Version="0.9.8.0" Name="fan control board">
+  <layers>
+    <layer name="MMBT2222A" color="255,0,0">
+      <objects>
+        <rect id="173" Closed="true" p="2,-5,0" w="3" h="1.3999999999999986">
+          <ModificationCount>627</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p>2,-5,0</p>
+            <p>5,-5,0</p>
+            <p>5,-3.6,0</p>
+            <p>2,-3.6,0</p>
+          </pts>
+        </rect>
+        <rect id="335" Closed="true" p="2.25,-5.7,0" w="0.5" h="0.69999999999999929">
+          <ModificationCount>725</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p>2.25,-5.7,0</p>
+            <p>2.75,-5.7,0</p>
+            <p>2.75,-5,0</p>
+            <p>2.25,-5,0</p>
+          </pts>
+        </rect>
+        <rect id="356" Closed="true" p="2.25,-5.7,0" w="0.25" h="0.69999999999999929">
+          <ModificationCount>725</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p>2.25,-5.7,0</p>
+            <p>2.5,-5.7,0</p>
+            <p>2.5,-5,0</p>
+            <p>2.25,-5,0</p>
+          </pts>
+        </rect>
+        <rect id="363" Closed="true" p="4.25,-5.7,0" w="0.5" h="0.69999999999999929">
+          <ModificationCount>673</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p>4.25,-5.7,0</p>
+            <p>4.75,-5.7,0</p>
+            <p>4.75,-5,0</p>
+            <p>4.25,-5,0</p>
+          </pts>
+        </rect>
+        <rect id="367" Closed="true" p="4.25,-5.7,0" w="0.25" h="0.69999999999999929">
+          <ModificationCount>673</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p>4.25,-5.7,0</p>
+            <p>4.5,-5.7,0</p>
+            <p>4.5,-5,0</p>
+            <p>4.25,-5,0</p>
+          </pts>
+        </rect>
+        <rect id="376" Closed="true" p="3.25,-3.6,0" w="0.5" h="0.70000000000000284">
+          <ModificationCount>693</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p>3.25,-3.6,0</p>
+            <p>3.75,-3.6,0</p>
+            <p>3.75,-2.9,0</p>
+            <p>3.25,-2.9,0</p>
+          </pts>
+        </rect>
+        <rect id="382" Closed="true" p="3.25,-3.6,0" w="0.25" h="0.70000000000000284">
+          <ModificationCount>693</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p>3.25,-3.6,0</p>
+            <p>3.5,-3.6,0</p>
+            <p>3.5,-2.9,0</p>
+            <p>3.25,-2.9,0</p>
+          </pts>
+        </rect>
+        <text id="383" p1="2.2198774740861,1.944866735974,0" p2="-1.2801225259139,1.944866735974,0" Height="0.15000000000000002" Font="" align="bottom,left">
+          <ModificationCount>738</ModificationCount>
+          <mat m="-1.83690953073357E-16 -1 0 0 1 -1.83690953073357E-16 0 0 0 0 1 0 1.6404605060267 -0.7160405327728 0 1" />Collector</text>
+        <text id="384" p1="0.327342583093421,-0.379702060236447,0" p2="-3.17265741690658,-0.379702060236447,0" Height="0.15" Font="" align="bottom,left">
+          <ModificationCount>725</ModificationCount>
+          <mat m="-1.83690953073357E-16 -1 0 0 1 -1.83690953073357E-16 0 0 0 0 1 0 2.9751101361107 -4.8355145352424 0 1" />Base</text>
+        <text id="385" p1="2.28567072594244,-0.377065341486447,0" p2="-1.21432927405756,-0.377065341486447,0" Height="0.15" Font="" align="bottom,left">
+          <ModificationCount>697</ModificationCount>
+          <mat m="-1.83690953073357E-16 -1 0 0 1 -1.83690953073357E-16 0 0 0 0 1 0 4.9618914109736 -2.8246481927637 0 1" />Emitter</text>
+        <text id="389" p1="2.9037034504973,-4.9249361401143,0" p2="-0.5962965495027,-4.9249361401143,0" Height="0.20000000000000284" Font="" align="bottom,left">
+          <ModificationCount>661</ModificationCount>
+          <mat m="Identity" />MMBT2222A</text>
+        <pline id="425">
+          <ModificationCount>571</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p>1.65,-6.9,0</p>
+            <p>1,-6.9,0</p>
+            <p>1,-6.7,0</p>
+            <p>1,-6.9,0</p>
+            <p>0.350000000000001,-6.9,0</p>
+            <p>0.350000000000001,-6.2,0</p>
+            <p>1.65,-6.2,0</p>
+            <p>1.65,-6.9,0</p>
+            <p>1.65,-6.2,0</p>
+            <p>1,-6.55,0</p>
+            <p>1,-4.65,0</p>
+            <p>1.65,-5,0</p>
+            <p>0.350000000000001,-5,0</p>
+            <p>0.350000000000001,-4.3,0</p>
+            <p>1,-4.3,0</p>
+            <p>1,-4.5,0</p>
+            <p>1,-4.3,0</p>
+            <p>1.65,-4.3,0</p>
+            <p>1.65,-5,0</p>
+          </pts>
+        </pline>
+        <text id="517" p1="18.659795430817,27.1094203472139,0" p2="15.159795430817,27.1094203472139,0" Height="0.30000000000000071" Font="" align="bottom,left">
+          <ModificationCount>613</ModificationCount>
+          <mat m="-1.83690953073357E-16 -1 0 0 1 -1.83690953073357E-16 0 0 0 0 1 0 -26.2165029719646 13.6158310799374 0 1" />470ohm</text>
+      </objects>
+      <ModificationCount>1</ModificationCount>
+    </layer>
+    <layer name="trace" color="0,255,255">
+      <objects>
+        <pline id="5">
+          <ModificationCount>0</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p>5,-7,0</p>
+            <p>5,-9,0</p>
+          </pts>
+        </pline>
+        <pline id="6">
+          <ModificationCount>0</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p>3,-9,0</p>
+            <p>3,-7,0</p>
+          </pts>
+        </pline>
+        <pline id="36">
+          <ModificationCount>0</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p>3,-7,0</p>
+            <p>4,-5.5,0</p>
+            <p>4.5,-5.5,0</p>
+          </pts>
+        </pline>
+        <pline id="4">
+          <ModificationCount>0</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p>5.5,-2,0</p>
+            <p>5.5,-7,0</p>
+          </pts>
+        </pline>
+        <pline id="7">
+          <ModificationCount>0</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p>1,-9,0</p>
+            <p>1,-7,0</p>
+          </pts>
+        </pline>
+        <pline id="10">
+          <ModificationCount>51</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p>1,-4.5,0</p>
+            <p>2.5,-4.5,0</p>
+            <p>2.5,-5,0</p>
+          </pts>
+        </pline>
+        <pline id="1">
+          <ModificationCount>31</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p>3.5,-3,0</p>
+            <p>3.5,-2,0</p>
+          </pts>
+        </pline>
+        <pline id="2">
+          <ModificationCount>0</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p>3,-2,0</p>
+            <p>3,0,0</p>
+          </pts>
+        </pline>
+        <pline id="3">
+          <ModificationCount>0</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p>5,-2,0</p>
+            <p>5,0,0</p>
+          </pts>
+        </pline>
+      </objects>
+      <ModificationCount>1</ModificationCount>
+    </layer>
+    <layer name="piste" color="255,128,0">
+      <objects>
+        <pline id="43">
+          <ModificationCount>0</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p>3.6,-1.82679491924311,0</p>
+            <p b="0.99999999999999989">3.6,0,0</p>
+            <p>2.4,0,0</p>
+            <p b="0.57735026918962551">2.4,-2,0</p>
+            <p>3.3,-2.51961524227066,0</p>
+          </pts>
+        </pline>
+        <pline id="46">
+          <ModificationCount>0</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p b="0.2679491924311237">5.6,-7.17320508075689,0</p>
+            <p>5.7,-7,0</p>
+            <p b="0.26794919243112336">5.7,-2,0</p>
+            <p>5.6,-1.82679491924311,0</p>
+          </pts>
+        </pline>
+        <pline id="48">
+          <ModificationCount>0</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p>5.3,-2.51961524227066,0</p>
+            <p>5.3,-6.48038475772934,0</p>
+          </pts>
+        </pline>
+        <pline id="50">
+          <ModificationCount>0</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p>5.6,-1.82679491924311,0</p>
+            <p b="0.99999999999999989">5.6,0,0</p>
+            <p>4.4,0,0</p>
+            <p b="0.57735026918962551">4.4,-2,0</p>
+            <p>5.3,-2.51961524227066,0</p>
+          </pts>
+        </pline>
+        <pline id="52">
+          <ModificationCount>0</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p>3.3,-2.8,0</p>
+            <p b="0.41421356237309537">3.25,-2.8,0</p>
+            <p>3.15,-2.9,0</p>
+            <p b="0.41421356237309553">3.15,-3.6,0</p>
+            <p>3.25,-3.7,0</p>
+            <p b="0.41421356237309559">3.75,-3.7,0</p>
+            <p>3.85,-3.6,0</p>
+            <p b="0.41421356237309553">3.85,-2.9,0</p>
+            <p>3.75,-2.8,0</p>
+            <p>3.7,-2.8,0</p>
+          </pts>
+        </pline>
+        <pline id="53">
+          <ModificationCount>0</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p b="0.41421356237309503">4.15,-5.7,0</p>
+            <p>4.25,-5.8,0</p>
+            <p b="0.41421356237309503">4.75,-5.8,0</p>
+            <p>4.85,-5.7,0</p>
+            <p b="0.41421356237309631">4.85,-5,0</p>
+            <p>4.75,-4.9,0</p>
+            <p b="0.41421356237309503">4.25,-4.9,0</p>
+            <p>4.15,-5,0</p>
+            <p>4.15,-5.3,0</p>
+          </pts>
+        </pline>
+        <pline id="55">
+          <ModificationCount>0</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p>2.3,-4.9,0</p>
+            <p b="0.41421356237309503">2.25,-4.9,0</p>
+            <p>2.15,-5,0</p>
+            <p b="0.41421356237309503">2.15,-5.7,0</p>
+            <p>2.25,-5.8,0</p>
+            <p b="0.41421356237309503">2.75,-5.8,0</p>
+            <p>2.85,-5.7,0</p>
+            <p b="0.41421356237309631">2.85,-5,0</p>
+            <p>2.75,-4.9,0</p>
+            <p>2.7,-4.9,0</p>
+          </pts>
+        </pline>
+        <pline id="57">
+          <ModificationCount>0</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p b="0.41421356237309503">1.75,-4.3,0</p>
+            <p>1.65,-4.2,0</p>
+            <p b="0.41421356237309503">0.350000000000001,-4.2,0</p>
+            <p>0.250000000000001,-4.3,0</p>
+            <p b="0.41421356237309503">0.250000000000001,-5,0</p>
+            <p>0.350000000000001,-5.1,0</p>
+            <p b="0.41421356237309503">1.65,-5.1,0</p>
+            <p>1.75,-5,0</p>
+            <p>1.75,-4.7,0</p>
+          </pts>
+        </pline>
+        <pline id="59">
+          <ModificationCount>0</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p>1.6,-7,0</p>
+            <p b="0.41421356237309631">1.65,-7,0</p>
+            <p>1.75,-6.9,0</p>
+            <p b="0.41421356237309503">1.75,-6.2,0</p>
+            <p>1.65,-6.1,0</p>
+            <p b="0.41421356237309503">0.350000000000001,-6.1,0</p>
+            <p>0.250000000000001,-6.2,0</p>
+            <p b="0.41421356237309553">0.250000000000001,-6.9,0</p>
+            <p>0.350000000000001,-7,0</p>
+            <p>0.4,-7,0</p>
+          </pts>
+        </pline>
+        <pline id="62">
+          <ModificationCount>0</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p>4.15,-5.3,0</p>
+            <p b="0.25076489093331056">4,-5.3,0</p>
+            <p>3.83358994113243,-5.38905996075495,0</p>
+            <p>3.14737575735353,-6.41838123642331,0</p>
+          </pts>
+        </pline>
+        <pline id="64">
+          <ModificationCount>0</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p>3.48019587508866,-6.64026131491341,0</p>
+            <p>4.1070367516976,-5.7,0</p>
+            <p>4.15,-5.7,0</p>
+          </pts>
+        </pline>
+        <pline id="65">
+          <ModificationCount>0</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p b="0.48891519389100729">3.14737575735353,-6.41838123642331,0</p>
+            <p>2.4,-7,0</p>
+            <p b="0.99999999999999989">2.4,-9,0</p>
+            <p>3.6,-9,0</p>
+            <p b="0.16213800612986229">3.6,-7,0</p>
+            <p>3.48019587508866,-6.6402613149134,0</p>
+          </pts>
+        </pline>
+        <pline id="68">
+          <ModificationCount>0</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p>0.4,-7,0</p>
+            <p b="0.99999999999999989">0.4,-9,0</p>
+            <p>1.6,-9,0</p>
+            <p>1.6,-7,0</p>
+          </pts>
+        </pline>
+        <pline id="69">
+          <ModificationCount>0</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p b="0.57735026918962573">5.3,-6.48038475772934,0</p>
+            <p>4.4,-7,0</p>
+            <p b="0.99999999999999989">4.4,-9,0</p>
+            <p>5.6,-9,0</p>
+            <p>5.6,-7.17320508075689,0</p>
+          </pts>
+        </pline>
+        <pline id="76">
+          <ModificationCount>0</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p>3.3,-2.51961524227066,0</p>
+            <p>3.3,-2.8,0</p>
+          </pts>
+        </pline>
+        <pline id="78">
+          <ModificationCount>0</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p>3.7,-2.8,0</p>
+            <p b="0.26794919243112336">3.7,-2,0</p>
+            <p>3.6,-1.82679491924311,0</p>
+          </pts>
+        </pline>
+        <pline id="80">
+          <ModificationCount>0</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p>2.7,-4.9,0</p>
+            <p b="0.41421356237309503">2.7,-4.5,0</p>
+            <p>2.5,-4.3,0</p>
+            <p>1.75,-4.3,0</p>
+          </pts>
+        </pline>
+        <pline id="82">
+          <ModificationCount>0</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p>1.75,-4.7,0</p>
+            <p>2.3,-4.7,0</p>
+            <p>2.3,-4.9,0</p>
+          </pts>
+        </pline>
+      </objects>
+      <ModificationCount>1</ModificationCount>
+    </layer>
+    <layer name="pcb" color="255,0,255">
+      <objects>
+        <text id="38" p1="13.2201352103774,21.9678267903041,0" p2="11.2201352103774,13.4678267903041,0" Height="0.80000000000000071" Font="" align="bottom,left">
+          <ModificationCount>0</ModificationCount>
+          <mat m="-1.83690953073357E-16 -1 0 0 1 -1.83690953073357E-16 0 0 0 0 1 0 -21.2122781556808 3.13646487933872 0 1" />GPIO</text>
+        <text id="261" p1="13.2201352103774,21.9678267903041,0" p2="11.2201352103774,13.4678267903041,0" Height="0.80000000000000071" Font="" align="bottom,left">
+          <ModificationCount>0</ModificationCount>
+          <mat m="-1.83690953073357E-16 -1 0 0 1 -1.83690953073357E-16 0 0 0 0 1 0 -19.2122781124983 3.12130177857049 0 1" />GND</text>
+        <text id="39" p1="13.2201352103774,21.9678267903041,0" p2="11.2201352103774,13.4678267903041,0" Height="0.80000000000000071" Font="" align="bottom,left">
+          <ModificationCount>0</ModificationCount>
+          <mat m="-1.83690953073357E-16 -1 0 0 1 -1.83690953073357E-16 0 0 0 0 1 0 -17.2577662794623 3.03032544464262 0 1" />5V</text>
+        <text id="424" p1="20.956640625,31.5625,0" p2="18.956640625,23.0625,0" Height="0.80000000000000071" Font="" align="bottom,left">
+          <ModificationCount>0</ModificationCount>
+          <mat m="-1.83690953073357E-16 -1 0 0 1 -1.83690953073357E-16 0 0 0 0 1 0 -26.8408531384552 23.9281215523485 0 1" />FAN+</text>
+        <text id="422" p1="20.956640625,31.5625,0" p2="18.956640625,23.0625,0" Height="0.80000000000000071" Font="" align="bottom,left">
+          <ModificationCount>0</ModificationCount>
+          <mat m="-1.83690953073357E-16 -1 0 0 1 -1.83690953073357E-16 0 0 0 0 1 0 -28.7954437377378 23.8998605999402 0 1" />FAN-</text>
+        <rect id="35" Closed="true" p="0,-9,0" w="6" h="9">
+          <ModificationCount>1</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p>0,-9,0</p>
+            <p>6,-9,0</p>
+            <p>6,0,0</p>
+            <p>0,0,0</p>
+          </pts>
+        </rect>
+      </objects>
+      <ModificationCount>1</ModificationCount>
+    </layer>
+  </layers>
+  <MachiningOptions>
+    <OutFile />
+    <ArcCenterMode>Absolute</ArcCenterMode>
+    <VelocityMode>ExactStop</VelocityMode>
+    <PostProcessor>Mach3-CV</PostProcessor>
+    <Stock>
+      <PMin>0,0</PMin>
+      <PMax>0,0</PMax>
+      <Color>255,165,0</Color>
+    </Stock>
+    <Style>Alu 2017A 3mm</Style>
+    <StyleLibrary>NNS Mill Rev0 Usinage</StyleLibrary>
+    <ToolLibrary>Fraise</ToolLibrary>
+    <ToolNumber>3</ToolNumber>
+    <ToolProfile>Unspecified</ToolProfile>
+  </MachiningOptions>
+  <parts />
+  <ActiveLayer>piste</ActiveLayer>
+</CADFile>
