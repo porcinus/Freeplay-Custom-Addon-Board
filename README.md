@@ -31,3 +31,8 @@ The fan is still controlled with pin 40 using a NPN transistor.
 A good example of this is when the handheld is charging, while MCP3021A is able to report 4.20-4.22v, MCP3221A does report 4.30v. This error doesn't look that big but when monitoring a Li-ion battery, you can easily lost or gain 15% error on the battery level reports.
 
 - rev3 : While MCP3021A value goes from 0 (0v) to 1024 (extrapolate to 4096) (+3.3v), ADS1015 base its read on the Full-Scale Range (FSR) set by the user (in this case ±4.096V), this mean that the ADC chip has a readable values in this PCB case goes from 2048 (0v) to 398 (-3.3v) OR to 3698 (+3.3v), so a range of only 1650. I used this chip not for it's performance but for it footprint. To avoid lag, use a udelay(450) insead of msleep(1) in your driver code.
+
+
+# Other boards
+- Battery monitoring board : provide a MCP3021A ADC chip (or a MCP3221A) with a MAX6107 voltage reference chip (Note: this board doesn't embeb pullup resistors, it is design to be used with original Freeplay CM3 Addon board).
+- Fan control board : a simple GPIO board with a resistor and a NPN transistor.
